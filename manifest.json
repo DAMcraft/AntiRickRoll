@@ -1,0 +1,21 @@
+{
+   "content_scripts": [ {
+      "js": [ "rickfinder.js" ],
+      "matches": [ "https://*.youtube.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "author": "DAMcraft",
+   "background": {
+      "scripts": [ "rickfinder.js" ]
+   },
+   "browser_action": {
+      "default_icon": "main.png",
+      "default_popup": "panel.html"
+   },
+   "description": "Never get rolled again!",
+   "manifest_version": 2,
+   "name": "AntiRickRoll",
+   "permissions": [ "tabs", "storage" ],
+   "version": "1.0",
+   "web_accessible_resources": [ "message.html" ]
+}
