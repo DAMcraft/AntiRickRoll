@@ -1,5 +1,7 @@
 
-[![](https://user-images.githubusercontent.com/43420467/112655571-d2cb5180-8e50-11eb-80ee-e186e9486473.png)](https://www.youtube.com/watch?v=gxP8jFgQgck "how to install the AntiRickRoll extension by DAMcraft")
 
+
+Tutorial on how to install it:
+[![](https://user-images.githubusercontent.com/43420467/112655872-2047be80-8e51-11eb-9d3b-33a32be6120a.mp4)]
 
 https://github.com/DAMcraft/AntiRickRoll/releases
