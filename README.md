@@ -1,4 +1,4 @@
-
+# Supports 25+ rickroll links!
 
 
 Tutorial on how to install it:
